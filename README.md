@@ -144,7 +144,8 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![image](https://user-images.githubusercontent.com/116772918/211217386-cce22fe3-bef3-4ed8-80cd-fffb6fd37752.png)
 
-![image](https://user-images.githubusercontent.com/116772918/211217396-dbec0586-d3b3-46d7-bf59-8a18ca97ed00.png)
+![image](https://user-images.githubusercontent.com/116772918/211217479-8c516856-9f10-4450-8507-a6bdd2b6695a.png)
+
 
 ![image](https://user-images.githubusercontent.com/116772918/211217413-a42a1c81-7529-4c05-8406-d1df4233da65.png)
 
