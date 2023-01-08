@@ -32,7 +32,7 @@ Desarrollar los ejercicios propuestos en el desarrollo de las unidades nueve y d
 **2. MARCO TEORICO**
 
 
-
+![image](https://user-images.githubusercontent.com/93835587/149241940-33a8b918-911d-4cae-b59d-fc2fbf66aaab.jpeg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
