@@ -152,39 +152,88 @@ los voltajes en cada nodo desconocido en la figura 9-35.
 ![image](https://user-images.githubusercontent.com/116772918/211217423-bc7fa504-1dbb-44df-927f-60b7daa550b4.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 3.2 CAPITULO 10
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+
+![image](https://user-images.githubusercontent.com/116772918/211217667-0a5bb534-d7df-4ae4-ada1-4bce8f64511a.png)
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500  106 T y el área
+de sección transversal mide 150 cm2?
+
+![image](https://user-images.githubusercontent.com/116772918/211217696-737c6b87-01a2-4ebf-b0a8-974bed1d45d7.png)
+
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+flujo en gauss. 
+
+![image](https://user-images.githubusercontent.com/116772918/211217718-78b3e355-d5b9-447d-b520-0a7d7fd15bbb.png)
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 X 10(^-6) Wb/At·m?
+
+![image](https://user-images.githubusercontent.com/116772918/211217743-863af3f4-9966-4ed2-b284-5da1780cd463.png)
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
+través de él?
+
+![image](https://user-images.githubusercontent.com/116772918/211217794-ed6a7e30-4a88-487d-a220-f7c70298650f.png)
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+
+Cuando el solenoide se activa o se energiza el campo electromagnético magnetiza ambos núcleos de hierro. El polo sur del núcleo estacionario atrae al polo norte del núcleo móvil (émbolo) y causa que se deslice hacia dentro, con lo cual se retrae el émbolo y comprime al resorte.
+
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+Cuando la corriente en el solenoide se interrumpe la fuerza que actúa para regresar al imán a su posición de no energizado (no voltaje o corriente) es la fuerza del resorte, que empuja al émbolo hacia atrás llevándolo a la posición de reposo.
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
+el interruptor 1 (SW1) se cierra. 
+
+Cuando el campo electromagnético interactúa con el campo magnético permanente, se ejercen fuerzas en el ensamble de bobina rotatoria, lo cual provoca que ésta gire en el sentido de las manecillas del reloj y, por tanto, la aguja se deflexiona.
 
 
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
+núcleo?
 
+![image](https://user-images.githubusercontent.com/116772918/211217985-e385ba72-0add-4dfb-b775-0191d6441d88.png)
 
+Para cambiar la densidad de flujo (B) es necesario cambiar la Corriente (I), debido a la fuerza magnetomotriz ya que al incrementarse o reducirse, también incrementa o se reduce el flujo y con ello la densidad del flujo magnético y la intensidad del campo magnético se reduce o incrementa con facilidad.
 
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
 
+![image](https://user-images.githubusercontent.com/116772918/211218092-d32e79f4-2387-4291-b072-f21c01587f71.png)
 
+El material A tiene mayor retentividad debido a que su valor residual (BR) es el único valor más cercano al valor de saturación de B.
 
+![image](https://user-images.githubusercontent.com/116772918/211218132-d8dbd14a-322c-4fe6-a5aa-e80f5efc82c3.png)
 
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
 
+El voltaje inducido (vind) es el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético y depende de tres factores que se presentan a continuación:
+
+• Densidad de flujo (B) y con ello la intensidad del campo magnético (H).
+
+• Longitud del conductor (l) expuesta al campo magnético.
+
+• Velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro (velocidad de rotación del conductor).
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+Mientras que la ley de Lenz define la polaridad o dirección del voltaje inducido, la polaridad del voltaje inducido siempre se opone al cambio de corriente. La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35
+
+![image](https://user-images.githubusercontent.com/116772918/211218219-4f14c0e1-a1bc-4273-a4c7-0321ec60b1d9.png)
+
+Cada una de las mitades del anillo partido (conmutador) frota contra los contactos fijos, llamados escobillas, y conecta la espira de alambre conductor a un circuito externo.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
+el voltaje máximo. 
+
+![image](https://user-images.githubusercontent.com/116772918/211218295-aa9e38a5-d27e-413f-9b90-4cf7d823a1bc.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
